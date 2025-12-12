@@ -4,9 +4,9 @@
 💫 About Me:
 <br> A MERN Stack Developer and AI Enthusiast from Uttar Pradesh, India, with a strong foundation in full-stack development, RESTful APIs, AI integration, and modern web application architecture.<br>
 I specialize in building efficient, scalable, and user-centric digital solutions using technologies like React, Next.js, Node.js, Express.js, MongoDB, and Generative AI.<br><br>
-I’m passionate about solving complex problems through clean architecture, modular code, and thoughtful design.<br> 
+I’m passionate about solving complex problems through clean architecture, modular code, and thoughtful design.<br> <br>
 My work focuses on creating robust backend systems, intelligent AI-driven tools, and real-time communication platforms.<br><br>
-My portfolio reflects a combination of practical experience, continuous learning, and a deep interest in building meaningful and impactful tech solutions.<br>
+My portfolio reflects a combination of practical experience, continuous learning, and a deep interest in building meaningful and impactful tech solutions.<br><br>
 I bring proven strengths in teamwork, leadership, adaptability, and analytical problem-solving, refined through internships, hackathons, and hands-on project development.
 
 🌐 Socials:
