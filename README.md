@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Pratik Srivastava</h1>
 <h3 align="center"> MERN Stack Developer | AI & GenAI Enthusiast </h3>
-# 💫 About Me:
+
+💫 About Me:
 <br> A MERN Stack Developer and AI Enthusiast from Varanasi, India, with a strong foundation in full-stack development, RESTful APIs, AI integration, and modern web application architecture. I specialize in building efficient, scalable, and user-centric digital solutions using technologies like React, Next.js, Node.js, Express.js, MongoDB, and Generative AI.
 
-My work focuses on creating robust backend systems, intelligent AI-driven tools, and real-time communication platforms. I’m passionate about solving complex problems through clean architecture, modular code, and thoughtful design.
+ I’m passionate about solving complex problems through clean architecture, modular code, and thoughtful design.<br> 
+My work focuses on creating robust backend systems, intelligent AI-driven tools, and real-time communication platforms.
 
-I bring proven strengths in teamwork, leadership, adaptability, and analytical problem-solving, refined through internships, hackathons, and hands-on project development. My portfolio reflects a combination of practical experience, continuous learning, and a deep interest in building meaningful and impactful tech solutions.
+I bring proven strengths in teamwork, leadership, adaptability, and analytical problem-solving, refined through internships, hackathons, and hands-on project development.<br>  My portfolio reflects a combination of practical experience, continuous learning, and a deep interest in building meaningful and impactful tech solutions.
 
 
 ## 🌐 Socials:
