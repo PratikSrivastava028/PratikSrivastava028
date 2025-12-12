@@ -18,7 +18,8 @@ My portfolio reflects a combination of practical experience, continuous learning
 ---
 [![](https://visitcount.itsvg.in/api?id=PratikSrivastava028&icon=0&color=0)](https://visitcount.itsvg.in)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-🔭 Currently working on **AI + Full Stack Projects**  
+
+- 🔭 Currently working on **AI + Full Stack Projects**  
 - 🌱 Learning **Advanced GenAI & DevOps (Docker, Kubernetes, CI/CD)**  
 - 👯 Looking to collaborate on **AI, MERN Stack, and Real-time Apps**  
 ---
