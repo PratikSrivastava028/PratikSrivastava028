@@ -12,10 +12,7 @@ I bring proven strengths in teamwork, leadership, adaptability, and analytical p
 My portfolio reflects a combination of practical experience, continuous learning, and a deep interest in building meaningful and impactful tech solutions.
 
 
-
-
-💫 About Me:
-<br>A MERN Stack Developer & AI Enthusiast from Varanasi, India.<br><br>Highlight his strong foundation in MERN Stack, AI integration, RESTful APIs, and full-stack application development.<br><br>I specialize in building efficient, scalable, and user-centric digital solutions using technologies like React, Next.js, Node.js, Express.js, MongoDB, and Generative AI.<br><br>About Me Section<br><br>I’m passionate about solving complex problems through clean architecture, modular code, and thoughtful design.<br> 
+<br>A MERN Stack Developer & AI Enthusiast from Varanasi, India.<br><br>Highlight his strong foundation in MERN Stack, AI integration, RESTful APIs, and full-stack application development.<br><br>I specialize in building efficient, scalable, and user-centric digital solutions using technologies like React, Next.js, Node.js, Express.js, MongoDB, and Generative AI.<br>I’m passionate about solving complex problems through clean architecture, modular code, and thoughtful design.<br> 
 My work focuses on creating robust backend systems, intelligent AI-driven tools, and real-time communication platforms..<br><br>Strong teamwork, leadership, and problem-solving skills.
 I bring proven strengths in teamwork, leadership, adaptability, and analytical problem-solving, refined through internships, hackathons, and hands-on project development.<br>
 
