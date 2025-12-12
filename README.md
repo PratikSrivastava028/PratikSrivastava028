@@ -1,112 +1,38 @@
 <h1 align="center">Hi 👋, I'm Pratik Srivastava</h1>
-<h3 align="center">Full Stack Developer | AI & GenAI Enthusiast | MERN Stack Developer</h3>
+<h3 align="center"> MERN Stack Developer | AI & GenAI Enthusiast </h3>
+# 💫 About Me:
+<br> A MERN Stack Developer and AI Enthusiast from Varanasi, India, with a strong foundation in full-stack development, RESTful APIs, AI integration, and modern web application architecture. I specialize in building efficient, scalable, and user-centric digital solutions using technologies like React, Next.js, Node.js, Express.js, MongoDB, and Generative AI.
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pratiksrivastava028&label=Profile%20Views&color=blue&style=flat" alt="profile views" />
-</p>
+My work focuses on creating robust backend systems, intelligent AI-driven tools, and real-time communication platforms. I’m passionate about solving complex problems through clean architecture, modular code, and thoughtful design.
+
+I bring proven strengths in teamwork, leadership, adaptability, and analytical problem-solving, refined through internships, hackathons, and hands-on project development. My portfolio reflects a combination of practical experience, continuous learning, and a deep interest in building meaningful and impactful tech solutions.
+
+
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/_pratiksrivastava_) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_pratiksrivastava_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/http://www.linkedin.com/in/pratik-srivastava-85000026b) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@PratikSrivas01) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pratiksrivastava028@gmail.com) 
+
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=PratikSrivastava028&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=PratikSrivastava028&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=PratikSrivastava028&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=PratikSrivastava028&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🚀 About Me  
-I’m a passionate **Full Stack Developer** and **AI Enthusiast** from Varanasi, India.  
-I love building scalable web applications, AI-powered tools, and real-time systems using modern technologies like **React, Next.js, Node.js, Gemini API, LangChain, and MongoDB**.
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 - 🔭 Currently working on **AI + Full Stack Projects**  
 - 🌱 Learning **Advanced GenAI & DevOps (Docker, Kubernetes, CI/CD)**  
 - 👯 Looking to collaborate on **AI, MERN Stack, and Real-time Apps**  
-- ⚡ Fun fact: I turn *ideas into interactive products*.
 
 ---
 
-## 🧑‍💻 Experience
 
-### **Full Stack Developer Intern — InternsElite (2024–2025)**
-- Developed end-to-end web applications with scalable architecture  
-- Built clean UI, secure APIs, real-time functionalities  
-- Gained hands-on experience with modular design & SDLC  
 
-### **Campus Ambassador — InternsElite (2024–2025)**
-- Promoted internship programs on campus  
-- Led presentations & awareness drives  
-- Improved communication & outreach performance  
 
-### **Web Developer Intern — Suvidha Foundation (2025)**
-- Contributed to NGO-based real-world projects  
-- Improved website performance & debugged UI/UX issues  
-- Built responsive and user-friendly interfaces  
 
----
 
-## 📌 Featured Projects
 
-### 🔹 **AI Image Caption Generator (Backend-based)**
-- Auto-generates captions using ImageKit API  
-- REST APIs for image handling  
-- Enhanced caption accuracy with optimized prompts  
-
-### 🔹 **AI Chatbot (Gemini API + MERN)**
-- Intelligent, context-aware responses  
-- Short-term memory for improved conversations  
-- Responsive React UI + optimized MongoDB queries  
-
-### 🔹 **ChatGPT Replica (Real-time AI App)**
-- Multi-session chat handling  
-- Real-time communication via Socket.io  
-- Short-term + long-term memory using **MongoDB + Pinecone**  
-- Secured with authentication & session management  
-
----
-
-## 🛠️ Skills
-
-**Frontend:**  
-HTML • CSS • SCSS • TailwindCSS • JavaScript • React.js • Next.js • EJS • PWA  
-
-**Backend & AI:**  
-Node.js • Express.js • MongoDB • REST APIs • Socket.io • GenAI • LangChain  
-
-**DevOps & Cloud:**  
-Docker • Kubernetes • CI/CD • Vercel • Netlify • Render  
-
-**Tools:**  
-Git • GitHub • Postman • VS Code • MongoDB Atlas • Pinecone • Canva  
-
----
-
-## 🏆 Achievements
-- 🥈 **Runner-up** at college-level Hackathon  
-- 👨‍💻 Led a **4-member team** to build a full-stack app in 2 days  
-- 🤖 Attended an AI workshop in Patna  
-- 🎓 Completed MERN Stack Development program  
-
----
-
-## 📜 Certifications
-- Full Stack Development — InternsElite  
-- Web Development — Suvidha Foundation  
-- Generative AI — LinkedIn Learning  
-- MERN Stack Development — Online Course  
-
----
-
-## 🌐 Connect With Me  
-<p align="left">
-<a href="https://github.com/YOUR_GITHUB" target="_blank"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=pratiksrivastava028&show_icons=true&theme=tokyonight" alt="stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=pratiksrivastava028&theme=tokyonight" alt="streak" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratiksrivastava028&layout=compact&theme=tokyonight" alt="langs" />
-</p>
-
----
-
-## ✨ Quote
-> “Building scalable web apps & intelligent systems with modern tech.”
 
